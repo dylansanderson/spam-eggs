@@ -1,4 +1,4 @@
 # spam-eggs
 pyGame
 
-Python asteroid shooter built with pygame
+multiple games written with pygame module.
